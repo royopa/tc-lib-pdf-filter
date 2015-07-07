@@ -79,6 +79,12 @@ and point your browser to <http://localhost:8000/index.php>
 
 ## Installation
 
+```sh
+composer require tc/assetic-filter-bundle
+```
+
+or
+
 Create a composer.json in your projects root-directory:
 
 ```json
